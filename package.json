@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/borestad/sails-boilerplate/issues"
   },
-  "homepage": "https://github.com/borestad/sails-boilerplate"
+  "homepage": "https://github.com/borestad/sails-boilerplate",
+  "devDependencies": {
+    "semver": "^4.2.0"
+  },
+  "dependencies": {
+    "LiveScript": "^1.3.1"
+  }
 }
